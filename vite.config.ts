@@ -19,7 +19,7 @@ export default defineConfig({
         name: "pwa-example",
         short_name: "pwa",
         description: "a simple pwa app.",
-        theme_color: "#ffffff",
+        theme_color: "#ff0000",
       },
 
       workbox: {
